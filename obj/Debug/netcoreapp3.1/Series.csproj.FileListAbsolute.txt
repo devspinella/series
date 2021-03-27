@@ -1,0 +1,13 @@
+E:\OneDrive\Dev\CSharp\DIO\Series\bin\Debug\netcoreapp3.1\Series.exe
+E:\OneDrive\Dev\CSharp\DIO\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+E:\OneDrive\Dev\CSharp\DIO\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+E:\OneDrive\Dev\CSharp\DIO\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+E:\OneDrive\Dev\CSharp\DIO\Series\bin\Debug\netcoreapp3.1\Series.dll
+E:\OneDrive\Dev\CSharp\DIO\Series\bin\Debug\netcoreapp3.1\Series.pdb
+E:\OneDrive\Dev\CSharp\DIO\Series\obj\Debug\netcoreapp3.1\Series.csprojAssemblyReference.cache
+E:\OneDrive\Dev\CSharp\DIO\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+E:\OneDrive\Dev\CSharp\DIO\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+E:\OneDrive\Dev\CSharp\DIO\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+E:\OneDrive\Dev\CSharp\DIO\Series\obj\Debug\netcoreapp3.1\Series.dll
+E:\OneDrive\Dev\CSharp\DIO\Series\obj\Debug\netcoreapp3.1\Series.pdb
+E:\OneDrive\Dev\CSharp\DIO\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
